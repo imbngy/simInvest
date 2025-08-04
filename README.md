@@ -1,19 +1,19 @@
-# SimInvest 💸📈
+# SimInvest
 
 **SimInvest** is a full-stack investment simulation platform that allows users to manage virtual funds, create accounts, invest in assets with simulated returns, and track their transactions and profits over time.
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
-- 💼 Create and manage virtual accounts
-- 📈 Simulate investments with compound interest and duration
-- 📅 Configure PAC (monthly contribution plans)
-- 🔁 Daily background job to apply monthly contributions
-- 🔐 Secure user authentication using JWT
-- 📊 Dashboard with charts and real-time summaries
-- 🧾 View transaction history and investment details
-- 📱 Fully responsive UI built with TailwindCSS
+- Create and manage virtual accounts
+- Simulate investments with compound interest and duration
+- Configure PAC (monthly contribution plans)
+- Daily background job to apply monthly contributions
+- Secure user authentication using JWT
+- Dashboard with charts and real-time summaries
+- View transaction history and investment details
+- Fully responsive UI built with TailwindCSS
 
 ---
 
